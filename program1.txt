@@ -1,5 +1,4 @@
 hello good afternoon
-how are you
+what are you doing
+where are you
 are you fine
-good evening
-coffee
